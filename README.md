@@ -1,16 +1,12 @@
 # oru_phones_assignment
 
-A new Flutter project.
+to run the project enter the command flutter run
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Image Cache Optimization
+for image cache optimization i used a package known as Cached_Network_Image. Its used for lazy loading of images.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I am not sending the video demonstration beacause the apis are not working as of 27/7/23 22:50 pm but i have implemented every api provided.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
