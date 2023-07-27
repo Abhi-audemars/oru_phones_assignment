@@ -1,6 +1,10 @@
 # oru_phones_assignment
 
+after opening in vsCode/Android Studio run flutter clean ,then flutter pub get
+
 to run the project enter the command flutter run
+
+to build apk run flutter build apk command.
 
 
 
