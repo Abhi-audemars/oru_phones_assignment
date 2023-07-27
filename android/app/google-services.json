@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "463890419859",
+    "project_id": "oru-app-assignment",
+    "storage_bucket": "oru-app-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463890419859:android:a28bae3b5815b523eafd66",
+        "android_client_info": {
+          "package_name": "com.example.oru_phones_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463890419859-iddln1arqj3hk77hmcioci2hd7rgfvsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQrof1HXYJkM3PpZicV32S0ou29CrlVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463890419859-iddln1arqj3hk77hmcioci2hd7rgfvsi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463890419859-i53v5ulo84he7m2p76o9bn5hdfvl5a4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oruPhonesAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
